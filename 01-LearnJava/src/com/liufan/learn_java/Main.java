@@ -2032,6 +2032,8 @@ class OuterChild extends Outer {
 ///
 /// java -cp ./hello.jar abc.xyz.Hello
 /// 这样JVM会自动在hello.jar文件里去搜索某个类。
+///
+/// jar包制作参考「30.2、模块」的「0130-oop-module 项目」查看
 
 /// 30.2、模块
 ///
