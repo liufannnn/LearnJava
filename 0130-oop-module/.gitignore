@@ -1,0 +1,7 @@
+# Android Studio
+/.idea
+
+# 自定义
+*.jar
+*.jmod
+/jre
